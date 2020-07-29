@@ -1,0 +1,15 @@
+{
+    "applinks": {
+        "apps": [],
+        "details": [
+            {
+                "appID": "EZ6HE455BG.com.bravotipping.bravo-dev-3",
+                "paths": ["*"]
+            },
+            {
+                "appID": "EZ6HE455BG.com.bravotipping.bravo-beta-3",
+                "paths": ["*"]
+            }
+        ]
+    }
+}
